@@ -1,5 +1,5 @@
 {
-    "name": "lotos/http-middleware",
+    "name": "lotos/http-client",
     "type": "library",
     "license": "GPL-3.0",
     "authors": [
